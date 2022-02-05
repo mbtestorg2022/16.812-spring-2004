@@ -39,8 +39,46 @@ Students participated in class discussion and debate. In addition, each student 
 
 Student writing styles and method of organization varied, but the excerpts that follow give a sense of how three students approached the journal task. The excerpts are used with the permission of the students.
 
-| TOPICS | JOURNALS |
-| --- | --- |
-| Freight operations  {{< br >}}Research directions    | ([PDF]({{< baseurl >}}/resources/journ_a)) |
-| Engineering challenges in business | ([PDF]({{< baseurl >}}/resources/journ_b)) (Courtesy of Christopher Graff. Used with permission.) |
-| Ethics and accountability | ([PDF]({{< baseurl >}}/resources/journ_c)) (Courtesy of Matthew Richards. Used with permission.)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+JOURNALS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Freight operations  
+Research directions   
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/journ_a))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Engineering challenges in business
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/journ_b)) (Courtesy of Christopher Graff. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ethics and accountability
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/journ_c)) (Courtesy of Matthew Richards. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
